@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "99ae5bdf8d62e4ddcfb8",
+    "revision": "66aaf3976a954dfe5421",
     "url": "/intro-react/static/css/main.66b0791b.chunk.css"
   },
   {
-    "revision": "99ae5bdf8d62e4ddcfb8",
-    "url": "/intro-react/static/js/main.99ae5bdf.chunk.js"
+    "revision": "66aaf3976a954dfe5421",
+    "url": "/intro-react/static/js/main.66aaf397.chunk.js"
   },
   {
     "revision": "ceefb4fbb137ac8ec744",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/intro-react/static/media/delete.375d6728.svg"
   },
   {
-    "revision": "03e3c6a96e85eec5afde2f33315f8517",
+    "revision": "0d5ae50930624862db30eb8c46bcdb64",
     "url": "/intro-react/index.html"
   }
 ];
